@@ -6,4 +6,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Botzilla.Common\Botzilla.Common.csproj" />
+    </ItemGroup>
+
 </Project>
